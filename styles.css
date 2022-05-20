@@ -1,0 +1,142 @@
+p{
+ font-family:'Cabin', sans-serif;
+}
+
+h1{
+    font-family: 'Assistant', sans-serif;
+    font-size: 6rem;
+    font-weight: bold;
+}
+
+h2{
+    font-family: 'Assistant', sans-serif; 
+    color:#FF69B4;
+
+}
+
+h3{
+    color:#808080;
+    font-family: 'Assistant', sans-serif; 
+
+}
+
+header{
+    background-color:azure;
+    display:flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+}
+
+header>div{
+
+   margin-right:35%;
+    text-align: center;
+}
+
+
+
+body{
+    background-color: #C1E1C1;
+}
+
+nav{
+    font-family:'Cabin', sans-serif ;
+    color:black;
+    font-weight:bolder;
+     margin:5;
+    text-align: center;
+    flex-wrap: wrap;
+    flex-basis: 100%;
+    font-size: 1.5rem;
+    padding:.5 .5 .5 .5;
+}
+
+
+header nav a:hover{
+    color:#FF69B4;
+    text-decoration:underline;
+    background-color: #C1E1C1;
+
+}
+
+
+header nav a{
+    border: none;
+    padding:2rem;
+    display:inline-block;
+}
+
+
+header img{
+    width:20%;
+}
+
+.yoga img{
+        display:block;
+        margin:auto;
+}
+
+.pose img{
+    display:block;
+        margin:auto;
+}
+.posing img{
+    display:block;
+    margin:auto;
+}
+
+
+
+.workout img, .group img{
+    display:block;
+    margin:auto;
+}
+
+.weights img, .yoga-mat img{
+    display:block;
+    margin:auto;
+}
+
+.membership{
+    text-decoration: underline;
+}
+
+.packages , .gear h2{
+    text-decoration: underline;
+}
+
+.title h2{
+    text-decoration: underline;
+}
+
+.class h2{
+    text-decoration: underline;
+}
+
+ul{
+    font-family:'Cabin', sans-serif ;
+    font-size: larger;
+   
+}
+
+.packages, .pricing, .title{
+width:20%;
+margin:auto;
+}
+
+.staff-bio{
+    width:35%;
+    margin:auto;  
+}
+
+
+.workout-items img{
+    display:block;
+    margin:auto;
+}
+
+.color h2{
+    color:black;
+}
+
+
