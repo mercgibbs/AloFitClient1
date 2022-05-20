@@ -126,7 +126,8 @@ margin:auto;
 
 .staff-bio{
     width:35%;
-    margin:auto;  
+    margin:auto; 
+    text-decoration: underline; 
 }
 
 
@@ -139,4 +140,9 @@ margin:auto;
     color:black;
 }
 
+.font{
+    color:#FF69B4;
+    font-weight: bold;
+}
 
+@media ()
