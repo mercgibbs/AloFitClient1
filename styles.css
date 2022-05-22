@@ -43,12 +43,12 @@ nav{
     font-family:'Cabin', sans-serif ;
     color:black;
     font-weight:bolder;
-     margin:5;
+     margin:5;/*missing unit*/
     text-align: center;
     flex-wrap: wrap;
     flex-basis: 100%;
     font-size: 1.5rem;
-    padding:.5 .5 .5 .5;
+    padding:.5 .5 .5 .5;/*missing unit*/
 }
 
 
